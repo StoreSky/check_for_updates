@@ -1,1 +1,1 @@
-{version: "2.0.1", notes:"Hole new udpates, code optimized and new functions!!"}
+{"version": "2.0.1", "notes":"Hole new udpates, code optimized and new functions!!"}
