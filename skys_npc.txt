@@ -1,1 +1,1 @@
-{"version": "2.0.1", "notes": "Reworked all the code and added objects functionality"}
+{"version": "2.0.2", "notes": "Restructured config files and Framework compatibility"}
