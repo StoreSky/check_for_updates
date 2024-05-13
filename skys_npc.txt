@@ -1,1 +1,1 @@
-{"version": "2.0.3", "notes": "Added some security checks so peds are forced to update"}
+{"version": "2.0.4", "notes": "Added the option of putting clothes into a ped. Readded the onSpawn and onDespawn functions. Please update."} 
